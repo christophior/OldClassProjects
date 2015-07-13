@@ -1,0 +1,5 @@
+user1 group1
+user2 group2
+user3 group3
+user4 group1
+user5 group2

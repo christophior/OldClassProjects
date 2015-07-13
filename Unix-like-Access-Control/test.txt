@@ -1,0 +1,20 @@
+WRITE user4 file1
+WRITE user4 file2
+WRITE user4 file3
+WRITE user4 file4
+WRITE user4 file5
+WRITE user2 file1
+READ user2 file1
+EXECUTE user2 file1
+CHMOD user1 file1 0777
+CHMOD user2 file1 0777
+WRITE user2 file1
+READ user2 file1
+EXECUTE user2 file1
+CHMOD root file2 0000
+WRITE user4 file1
+WRITE user4 file2
+WRITE user4 file3
+WRITE user4 file4
+WRITE user4 file5
+EXIT

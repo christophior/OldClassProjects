@@ -1,0 +1,5 @@
+file1 user1 4755
+file2 user1 0000
+file3 user2 7777
+file4 user3 0333
+file5 user4 0700

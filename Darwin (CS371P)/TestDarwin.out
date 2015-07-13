@@ -1,0 +1,29 @@
+valgrind TestDarwin
+==2809== Memcheck, a memory error detector
+==2809== Copyright (C) 2002-2011, and GNU GPL'd, by Julian Seward et al.
+==2809== Using Valgrind-3.7.0 and LibVEX; rerun with -h for copyright info
+==2809== Command: TestDarwin
+==2809== 
+TestDarwin.c++
+................................................................
+
+
+OK (64 tests)
+
+
+Done.
+==2809== 
+==2809== HEAP SUMMARY:
+==2809==     in use at exit: 122,880 bytes in 6 blocks
+==2809==   total heap usage: 3,650 allocs, 3,644 frees, 1,703,878 bytes allocated
+==2809== 
+==2809== LEAK SUMMARY:
+==2809==    definitely lost: 0 bytes in 0 blocks
+==2809==    indirectly lost: 0 bytes in 0 blocks
+==2809==      possibly lost: 0 bytes in 0 blocks
+==2809==    still reachable: 122,880 bytes in 6 blocks
+==2809==         suppressed: 0 bytes in 0 blocks
+==2809== Rerun with --leak-check=full to see details of leaked memory
+==2809== 
+==2809== For counts of detected and suppressed errors, rerun with: -v
+==2809== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)

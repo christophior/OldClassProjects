@@ -1,0 +1,152 @@
+commit be7f3bed249c26a00681d36c9f987eee4624f955
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Thu Apr 4 19:00:52 2013 -0500
+
+    completed uml diagram
+
+commit 6f0007d16105a7a7cb03482d46bbde34e4830e7c
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Thu Apr 4 19:00:13 2013 -0500
+
+    completed uml diagram
+
+commit 578cf06658c2313248e6f74593e58359fc1fbdb7
+Merge: f5ddfa5 9dfd950
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Thu Apr 4 18:29:57 2013 -0500
+
+    Merge branch 'master' of github.com:christophior/cs371p-darwin
+
+commit f5ddfa5d62084663e29df8217f5b4d7d566942d4
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Thu Apr 4 18:29:43 2013 -0500
+
+    finished acceptance tests, found a bug with our indexing
+
+commit 9dfd9507ec93d36a92d36796e54df2cdfad8fcb9
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Thu Apr 4 18:20:10 2013 -0500
+
+    added documentation
+
+commit b8af356beeed3359505cf6e5fa6273ca9da78040
+Merge: b75dacc ce87dd0
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Thu Apr 4 17:34:13 2013 -0500
+
+    merging
+
+commit b75dacc046e78400e0f198d56ecc718c793befd6
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Thu Apr 4 17:31:55 2013 -0500
+
+    mergin
+
+commit ce87dd0858ba51a32cc3eccdaf9444037b63f6ff
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Thu Apr 4 17:24:51 2013 -0500
+
+    finished unit tests; working on doc, uml and acceptance tests
+
+commit ebc9aa7f85ea33dbd025ea70fd5a2d08e9aa7593
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Thu Apr 4 14:55:47 2013 -0500
+
+    finished the board tests
+
+commit 463f1140504f75a3b10413167a13d4f4706471fe
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Thu Apr 4 04:49:00 2013 -0500
+
+    did a few more unit tests, still have the rest of board and darwin left
+
+commit 9b705179e0726facc9b633d1413ce473f2684d2f
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Thu Apr 4 01:20:27 2013 -0500
+
+    Deleted unneccessary files
+
+commit 8331ebed7e82e0a8b0fc35846232142f655093e8
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Apr 3 17:57:04 2013 -0500
+
+    pushing minor changes before leaving lab
+
+commit 389e0b28cb1ccb47a66e4aeeaca1cb57715e5c10
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Apr 3 17:55:25 2013 -0500
+
+    added image of classes for the UML diagram, need to make UML with associations
+
+commit 543fc55028ba41bb45cf202e92b7905a548c8e96
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Apr 3 17:43:48 2013 -0500
+
+    working on tests
+
+commit 927957fbe589eae6ffad6f4a6353ddf947ed21cb
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Wed Apr 3 15:08:08 2013 -0500
+
+    updated RunDarwin
+
+commit 73ae7b41e785e26f05764c50310e309bdf65b8ee
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Wed Apr 3 15:00:29 2013 -0500
+
+    most recent Darwin files
+
+commit 9ffad3a1d381e29416f6834ec48a3cd43680e0d7
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Wed Apr 3 07:26:31 2013 -0500
+
+    I beleive all of the instructions are now working as intentended.
+
+commit 725e480fac34eb4bbcf8508d3aa48181c59e5663
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Wed Apr 3 00:04:18 2013 -0500
+
+    refactord a lot of the code and got basic food and hopper to run
+
+commit 21c5435f275bc89b736ef9bde3952dc9570dc67e
+Merge: f78d5a8 b6ddbea
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Tue Apr 2 17:28:47 2013 -0500
+
+    merging
+
+commit f78d5a85cc498b357654f176b298c4374e3c5aed
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Tue Apr 2 17:27:18 2013 -0500
+
+    merging
+
+commit b6ddbea37230d9edde90480b5ec1bd0ecf46bc75
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Apr 1 21:02:14 2013 -0500
+
+    Implemented board display, implemented some of Creature and Species. Working on getting Darwin::run
+
+commit 079ee0396134b1f3aecc78e20fcd0de82af5b6ea
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Apr 1 17:53:39 2013 -0500
+
+    still hacking together basic implementation
+
+commit 6bcad8d9ff4adec75fdc989cacecba2133705fd8
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Apr 1 16:41:04 2013 -0500
+
+    implementing Darwin/board class and expanding on all other classes
+
+commit d49da14fe9cd95fe97dd5c6c69ae79fd58a6ba13
+Author: Troy Pocklington <tdashroy@gmail.com>
+Date:   Fri Mar 29 18:49:02 2013 -0500
+
+    Starting to work on the architecture of the program
+
+commit eccffbb5ac4cf255738e7b27e324603e14ebf4c5
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Fri Mar 29 15:49:23 2013 -0500
+
+    added starting files to repo
